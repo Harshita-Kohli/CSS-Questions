@@ -1,0 +1,9 @@
+How To center align a div?
+We begin with display: flex; which allows us to use Flexbox in CSS.
+We then used both the justify-content (horizontal alignment) and align-items (vertical alignment) properties to position the circle at the center of the page.
+
+Here are the three lines of code we added to the container class above:
+
+display: flex;
+justify-content: center;
+align-items: center;
